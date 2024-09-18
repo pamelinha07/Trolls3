@@ -53,7 +53,7 @@ namespace Trolls3
         {
             if (RespostaCerta==RR);
             {
-                var BTN= QualBTN(RR);
+                var BTN=QualBTN(RR);
                 BTN BackgroundColor=Colors.Green;
                 return true;
 

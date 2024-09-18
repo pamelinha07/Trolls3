@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Trolls3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+3a570998ad5f586700d3cb16801eb9a588869a0e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+dd3e1a75afaa32853625f2ad3388e3e4a38376b4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Trolls3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Trolls3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
